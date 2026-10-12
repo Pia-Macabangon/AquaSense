@@ -101,7 +101,3 @@ flowchart TD
 4. Click the **Play** button at the bottom left to start real-time simulation.
 
 ---
-
-* Jovelo, Robie R.
-* Macabangon, Pia Nicole B.
-* Ortenero, Mel Paolo
