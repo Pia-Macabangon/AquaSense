@@ -81,25 +81,6 @@ flowchart TD
     H --> B
 ```
 
----
-
-## 💰 Bill of Materials (Estimated Budget)
-
-| Item | Specification / Module | Qty | Est. Cost (PHP) |
-| :--- | :--- | :---: | :---: |
-| Arduino Uno / Nano | ATmega328P Microcontroller Board | 1 | ₱287.00 |
-| OLED Display | 0.96" SSD1306 I2C 128×64 | 1 | ₱230.00 |
-| Analog pH Sensor | E-201-C Probe + Signal Conversion Board | 1 | ₱582.00 |
-| Turbidity Sensor | Optical Turbidity Detection Module | 1 | ₱290.00 |
-| TDS Sensor | Analog Total Dissolved Solids Module | 1 | ₱516.00 |
-| Temperature Sensor | DS18B20 Waterproof Probe | 1 | ₱167.00 |
-| Relay Module | 1-Channel 5V Optocoupler Relay | 1 | ₱128.00 |
-| Mini Water Pump | 3V-6V / 12V DC Submersible Pump + Tubing | 1 | ₱116.00 |
-| Buzzer & LEDs | Active Buzzer + Red/Yellow/Green LEDs + Resistors | Set | ₱207.00 |
-| Power & Wiring | 9V Battery + LM7805 Regulator + Wires | Set | ₱200.00 |
-| **Total** | | | **₱2,623.00** |
-
----
 
 ## 🚀 Getting Started
 
@@ -121,20 +102,6 @@ flowchart TD
 
 ---
 
-## 👥 Course & Team Credits
-
-* **Course:** COEPRO15 – Embedded Systems
-* **Program:** Bachelor of Science in Computer Engineering (BSCpE)
-* **College:** College of Engineering and Digital Technology
-* **Instructor:** Sir Meiko Rios
-
-### Project Members
-* Alon, Angel Andrein L.
-* Amaba, Ariel John A.
-* Barcelona, Leo Jay B.
-* De Jesus, Christian
-* Garcia, Llyod Andrei D.
-* Ilao, Kyle Andrei James Z.
 * Jovelo, Robie R.
 * Macabangon, Pia Nicole B.
 * Ortenero, Mel Paolo
